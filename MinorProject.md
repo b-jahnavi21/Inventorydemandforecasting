@@ -1,17 +1,6 @@
 Time Series Inventory Demand Forecasting on MVA data using ARIMA and
 SARIMA
 ================
-Akshitha, Jahnavi, Geetika, Navya Sree
-2024-05-23
-
-``` r
-# Akshitha Thokala    - 160121771072
-# Buggala Jahnavi     - 160121771075
-# Guduru Geetika      - 160121771078
-# Jamalpur Navya Sree - 160121771079
-```
-
-``` r
 #necessary libraries
 library(ggplot2)
 library(tseries)
