@@ -4,13 +4,6 @@ SARIMA
 #necessary libraries
 library(ggplot2)
 library(tseries)
-```
-
-    ## Registered S3 method overwritten by 'quantmod':
-    ##   method            from
-    ##   as.zoo.data.frame zoo
-
-``` r
 library(dplyr)
 ```
 
