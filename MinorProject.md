@@ -1,10 +1,12 @@
 Time Series Inventory Demand Forecasting on MVA data using ARIMA and
 SARIMA
 ================
+```
 #necessary libraries
 library(ggplot2)
 library(tseries)
 library(dplyr)
+``` r
 ```
 
     ## 
